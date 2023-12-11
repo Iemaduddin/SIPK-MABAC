@@ -1,0 +1,12 @@
+{
+    "nunito": {
+        "300": "\/var\/www\/sipkesda\/storage\/fonts\/nunito_300_e28db753c8a675c61d9890acca19ec15",
+        "normal": "\/var\/www\/sipkesda\/storage\/fonts\/nunito_normal_f8ce9593f0c56e52776379aa29b2d690",
+        "600": "\/var\/www\/sipkesda\/storage\/fonts\/nunito_600_0275befc5ca0fc822c590fc63a6c14d5",
+        "bold": "\/var\/www\/sipkesda\/storage\/fonts\/nunito_bold_8dc3583b65bede23262ac4c563179f23",
+        "800": "nunito_800_924d67a3f4e0c85d5e5695ded0fa98ec"
+    },
+    "iconly---bold": {
+        "normal": "iconly___bold_normal_1578c46c57f2648cd07b832117db8f84"
+    }
+}
