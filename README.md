@@ -1,4 +1,5 @@
-✨ Apa itu Website SIPK MABAC - Kaperma?
+✨ Apa itu Website SIPK MABAC - Kaperma? ✨ 
+
 Website ini menerapkan aplikasi sistem pendukung keputusan menggunakan metode MABAC untuk memberikan penilaian yang riil dan objektif dalam proses penentuan prioritas kelayakan peminjaman dana koperasi Perkebunan PTP Nusantara III (Kaperma).
 
 Anggota Kelompok 7 - TI 3C:
